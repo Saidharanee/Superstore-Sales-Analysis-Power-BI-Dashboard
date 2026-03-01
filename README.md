@@ -28,7 +28,7 @@ This Power BI project analyzes the Superstore dataset to provide insights into s
 - DAX (Calculated measures)
 
 ## 📸 Dashboard Preview
-![Dashboard](superstore/screenshots/Dashboard.png)
+![Dashboard](superstore/screenshot/Dashboard.png)
 
 ## 📈 Key Insights
 - Technology category generated the highest profit
