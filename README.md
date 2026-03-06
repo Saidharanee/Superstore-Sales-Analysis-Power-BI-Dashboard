@@ -1,3 +1,19 @@
+#Interactive-QuizApplication
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SAIDHARANEE
+
+*INTERN ID*: CTIS4535
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+----
+
 # Superstore-Sales-Analysis-Power-BI-Dashboard
 
 ## Project Overview
